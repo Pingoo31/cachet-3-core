@@ -21,6 +21,7 @@
     "require": {
         "php": "^8.2",
         "ext-simplexml": "*",
+        "directorytree/ldaprecord-laravel": "^3.4",
         "doctrine/dbal": "^3.6",
         "filament/filament": "^3.2.57",
         "filament/spatie-laravel-settings-plugin": "^3.2",
